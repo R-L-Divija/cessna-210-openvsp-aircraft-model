@@ -24,17 +24,6 @@ The aircraft geometry was created using common aerodynamic parameters:
 - Dihedral angle
 - Tail geometry
 
-## Screenshots
-
-### Top View
-![Top View](top-view.png)
-
-### Front View
-![Front View](front-view.png)
-
-### Side View
-![Side View](side-view.png)
-
 ## How to Open the Model
 1. Install OpenVSP from NASA website
 2. Open the file:
